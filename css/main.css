@@ -950,6 +950,7 @@ pre .javascript .function {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   line-height: 2;
+  border-radius: 20px;
 }
 .btn:hover {
   border-color: #222;
@@ -1117,6 +1118,7 @@ pre .javascript .function {
   color: #fff;
   background: #222;
   border-bottom: none;
+  border-radius: 25px;
 }
 .brand:hover {
   color: #fff;
@@ -1945,7 +1947,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #547de0;
+  background: #94e973;
 }
 .links-of-blogroll {
   font-size: 13px;
